@@ -1,1 +1,1 @@
-# stars
+# exoplanet-pro
